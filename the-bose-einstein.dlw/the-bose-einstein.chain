@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1785
+slug  : the-bose-einstein
+seal  : a2f5e92af7dfa2cb7ae8c224f940e419cb4cc32cbad49a1cc82f5beb603d23b3
+prev  : 20f7597024ef4d1027c46579ec2c3a78f0bd2a000f9ff1f379841883aab1c0b9
+link  : bd00f7a30731efa3760360d8dfc7d2fedc887681643370d3c720becc97ba097a
+head  : ceada221dd20752feabc16e37914fc650069d7c10cf4172368b5dbc4323a0b65
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
